@@ -9,6 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
+
+            //"url": "https://localhost:4200",
+
             // If you have changed target frameworks, make sure to update the program path.
             "program": "${workspaceFolder}/api/bin/Debug/net6.0/api.dll",
             "args": [],
